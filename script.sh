@@ -11,6 +11,8 @@ case $response in [yY][eE][sS]|[yY]|[jJ]|'')
     bash start.sh
     rm eula.txt
     wget https://raw.githubusercontent.com/JCionx/androidjavaserver/master/eula.txt
+    java -jar paper-1.18.2-317.jar
+    stop
     echo Installation complete!
     ;;
     *)
