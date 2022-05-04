@@ -1,5 +1,5 @@
 <h1>Minecraft Java Edition 1.18.2 server for android!</h1>
-<h3>How to istall:</h3>
+<h3>How to install:</h3>
 1 - Install Termux on your Android device.
 2 - Paste this command:
  
