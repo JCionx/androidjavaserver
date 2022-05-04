@@ -1,1 +1,1 @@
-java -Xms1G -Xmx1G -jar paper-1.18.2-317.jar --nogui
+java -Xms1024M -Xmx1024M -jar paper-1.18.2-317.jar --nogui
