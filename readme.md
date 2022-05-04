@@ -19,5 +19,5 @@
 5 - To start the server, go to the Server folder and type:
 
  ```
-./start.sh
+java -Xms1024M -Xmx1024M -jar paper-1.18.2-317.jar --nogui
  ```
