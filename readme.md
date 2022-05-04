@@ -9,7 +9,7 @@
  ​```
 
 3 - You must agree with the Minecraft EULA to continue.
-<hr>
+<br>
 4 - The server will automatically run. To stop it type:
 
  ```
