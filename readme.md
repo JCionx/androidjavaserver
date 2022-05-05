@@ -5,7 +5,7 @@
 2 - Paste this command:
  
  ​``` 
-​curl https://raw.githubusercontent.com/JCionx/androidjavaserver/master/script.sh > install.sh && chmod +x install.sh && bash install.sh
+curl https://raw.githubusercontent.com/JCionx/androidjavaserver/master/script.sh > install.sh && chmod +x install.sh && bash install.sh
  ​```
 
 3 - You must agree with the Minecraft EULA to continue.
