@@ -6,6 +6,7 @@ case $response in [yY][eE][sS]|[yY]|[jJ]|'')
     pkg install openjdk-17 -y
     mkdir Server
     cd Server
+    pkg install wget -y
     wget https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/317/downloads/paper-1.18.2-317.jar
     java -Xms1024M -Xmx1024M -jar paper-1.18.2-317.jar --nogui
     rm eula.txt
